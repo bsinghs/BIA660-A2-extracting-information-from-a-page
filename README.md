@@ -1,5 +1,10 @@
 # BIA660-A2-extracting-information-from-a-page
-Extracting information from a page
+
+### Below steps are added as comments in the main script called tld.py
+### The script creates tlds.xlsx excel sheet when executed
+
+
+## Extracting information from a page
 
 All of the top-level domains have been conveniently compiled into a list on Wikipedia: https://en.m.wikipedia.org/wiki/List_of_Internet_top-level_domainsLinks to an external site.
 
@@ -36,6 +41,3 @@ Step 7
 Submit your generated CSV file using Canvas.
 
 
-_Steps are added as comments in the main script called tld.py._
-
-_The script creates tlds.xlsx excel sheet with results._
