@@ -34,3 +34,7 @@ Submit the URL of your Gist using Canvas.
 Step 7
 
 Submit your generated CSV file using Canvas.
+
+
+*Steps are added as comments in the main script called tld.py.*
+*The script created tlds.xlsx excel sheet with results.*
