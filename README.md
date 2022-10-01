@@ -36,5 +36,6 @@ Step 7
 Submit your generated CSV file using Canvas.
 
 
-*Steps are added as comments in the main script called tld.py.*
-*The script created tlds.xlsx excel sheet with results.*
+_Steps are added as comments in the main script called tld.py._
+
+_The script creates tlds.xlsx excel sheet with results._
